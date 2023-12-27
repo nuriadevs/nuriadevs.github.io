@@ -20,3 +20,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
 gem "webrick", "~> 1.7"
+
+# Add the following line for google-protobuf
+gem 'google-protobuf', '3.15.1' # Adjust the version as needed
