@@ -2,7 +2,6 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", '4.3.3'  # Update to the latest version of Jekyll
 
 gem "jekyll-theme-chirpy", "~> 5.5", ">= 5.5.2"
 
