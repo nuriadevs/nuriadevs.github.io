@@ -6,7 +6,7 @@ categories: [Tutorial, Script]
 tags: [OpenAI, Artificial Intelligence, Pytube, YouTube, Python, Transcription , Script]
 ---
 
-### Explorando Whisper de OpenAI y Pytube para la Transcripción de Audio y Descarga de Videos
+# Explorando Whisper de OpenAI y Pytube para la Transcripción de Audio y Descarga de Videos
 
 ![mano robot y mano humana](https://images.unsplash.com/photo-1680783954745-3249be59e527?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
@@ -19,7 +19,7 @@ Por un lado, encontramos a **Whisper**, un modelo de inteligencia artificial de 
 
 Si queremos transcribir el audio de cualquier video de **Youtube**, podemos realizarlo llevando cada paso del siguiente script:
 
-### Transcripción de Audio de un Video de YouTube
+## Transcripción de Audio de un Video de YouTube
 
 ### Instalar las dependencias necesarias
 
