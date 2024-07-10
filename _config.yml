@@ -32,12 +32,6 @@ url: 'https://nuriadevs.github.io'
 github:
   username: nuriadevs # change to your github username
 
-twitter:
-  username: nuriadevs # change to your twitter username
-
-instagram:
-  username: nuriadevs  
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -45,8 +39,6 @@ social:
   email: nuriadevs@gmailcom # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/nuriadevs # change to your twitter homepage
-    - https://github.com/nuriadevs # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/nuriavazquezflores/
